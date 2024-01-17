@@ -1,0 +1,12 @@
+p{
+  align-items: center;
+  justify-content: center;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 40px;
+  color: rgb(91, 91, 91);
+}
+
+p span{
+  color: rgb(8, 5, 92);
+}
